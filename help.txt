@@ -1,0 +1,11 @@
+<Please keep adding valueable information or links in this file>
+
+-  How to run the node js app ?
+   go to command prompt window
+   go to directory where index.js file located
+   run the below command
+   > node index.js
+
+- What is the default port for nodejs app
+  3000 is the default port for the node js app.
+ 
